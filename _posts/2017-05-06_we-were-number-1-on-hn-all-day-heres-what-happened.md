@@ -1,3 +1,7 @@
+layout: post
+title: "We were number 1 on HN all day, here’s what happened"
+date: 2017-05-06 00:00:00 -0000
+---
 
 # We were number 1 on HN all day, here’s what happened
 

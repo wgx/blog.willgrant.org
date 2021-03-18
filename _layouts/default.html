@@ -5,15 +5,13 @@
     <title>{{ page.title }}</title>
     <style>
         body {
-            background-color: black;
-            color: #eee;
             font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
         }
     </style>
   </head>
   <body>
-    <h1 style="text-align: center">blog.willgrant.org</h1>
-    <div style="text-align: center">{{ content }}</div>
+    <h1>blog.willgrant.org</h1>
+    <div>{{ content }}</div>
 
     <ul class="post-list">
       {% for post in site.posts %}
@@ -27,6 +25,6 @@
       {% endfor %}
       </ul>
 
-    <div style="text-align: center">&copy; {{ page.copyright }}</div>
+    <div>&copy; {{ page.copyright }}</div>
   </body>
 </html>
