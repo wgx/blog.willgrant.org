@@ -1,6 +1,6 @@
 ---
 layout: default
 title: Will Grant
-copyright: 2008 - 2020 Will Grant.
+copyright: 2008 - 2021 Will Grant.
 ---
-Selected photography by Will Grant.
+Blog posts by Will Grant.
