@@ -1,1 +1,15 @@
+title: Blog posts of Will Grant
+description: > # this means to ignore newlines until "show_excerpts:"
+Will is a product designer and user experience professional with over 20 years experience overseeing the design, information architecture and usability of web and mobile products that have reached over a billion users.
+show_excerpts: true # set to true to show excerpts on the homepage
+
+minima:
+  social_links:
+    twitter: wgx
+    github:  wgx
+
 theme: minima
+
+plugins:
+ - jekyll-feed
+ - jekyll-seo-tag
