@@ -15,7 +15,7 @@ Here are 7 selected extracts, taken from my 2018 book ‘[101 UX Principles](htt
 
 This is less of a problem today than it once was, simply because UI frameworks like Bootstrap have a great set of default buttons.
 
-![*Buttons that exhibit visual affordances (called ‘signifiers’) such as texture and pseudo-3D shadows (left) consistently perform better in user tests than those without them (right).*](https://blog.willgrant.org/images/0*oPyGmT_JHTMJutf9)**Buttons that exhibit visual affordances (called ‘signifiers’) such as texture and pseudo-3D shadows (left) consistently perform better in user tests than those without them (right).**
+![*Buttons that exhibit visual affordances (called ‘signifiers’) such as texture and pseudo-3D shadows (left) consistently perform better in user tests than those without them (right).*](https://blog.willgrant.org/images/0*oPyGmT_JHTMJutf9.png)**Buttons that exhibit visual affordances (called ‘signifiers’) such as texture and pseudo-3D shadows (left) consistently perform better in user tests than those without them (right).**
 
 By drawing on real-world examples, we can make UI buttons that are obvious and instantly familiar. The human visual system is tuned to see depth, and by including the illusion of depth in your UI, you add a whole layer of useful information for the user.
 
@@ -33,7 +33,7 @@ You can decide where a control should be placed, or how an interaction should be
 
 **Possible**: Interactions we classify as possible are rarely-used and they are often advanced features. They need to be discoverable, but they shouldn’t be given the same prominence as obvious or easy interactions. For example, it is possible to adjust the white balance or auto-focus on a camera app, or make an event recurring on a calendar app. These advanced controls can be tucked further away, as the majority of users will not need to see their UI cluttered with them.
 
-![*The iOS camera UI (above) balances these three classes of interaction well.*](https://blog.willgrant.org/images/0*ZSje-ZaFCo_W8Si_)**The iOS camera UI (above) balances these three classes of interaction well.**
+![*The iOS camera UI (above) balances these three classes of interaction well.*](https://blog.willgrant.org/images/0*ZSje-ZaFCo_W8Si_.png)**The iOS camera UI (above) balances these three classes of interaction well.**
 
 ## #3 Hide ‘advanced’ settings from most users
 
@@ -79,7 +79,7 @@ In some fields, medicine for example, professionals have a code of conduct and e
 
 **All of these dark patterns and addictive products were designed by normal people working in normal software companies — they had a choice.** They chose to fight for the company, not the user. **Be a good UX designer and don’t be evil.**
 
-![A sense of urgency is a frequently-used dark pattern on hotel booking sites.](https://blog.willgrant.org/images/0*wsj-M1pGzhhLsu59)*A sense of urgency is a frequently-used dark pattern on hotel booking sites.*
+![A sense of urgency is a frequently-used dark pattern on hotel booking sites.](https://blog.willgrant.org/images/0*wsj-M1pGzhhLsu59.png)*A sense of urgency is a frequently-used dark pattern on hotel booking sites.*
 
 ## #6 Test with real users
 
@@ -91,13 +91,13 @@ It’s never too early to start testing — an unfinished prototype or even pape
 
 There’s a myth that user testing is expensive and time-consuming, but the reality is that even very small test groups (less than 10 people) can provide fascinating insights. The nature of such tests is very qualitative and doesn’t lend itself well to quantitative analysis, so you can learn a lot from working with a small sample set of fewer than 10 users.
 
-There’s research ([Why you only need to test with 5 users](https://www.nngroup.com/articles/why- you-only-need-to-test-with-5-users/), NNG) to show that testing with **as few as five users will uncover 85% of usability problems** in a single test.
+There’s research ([Why you only need to test with 5 users](https://www.nngroup.com/articles/why-you-only-need-to-test-with-5-users/), NNG) to show that testing with **as few as five users will uncover 85% of usability problems** in a single test.
 
 Test with real users and listen to them, and you’ll build something they love.
 
 ## #7 Make your product work like all the other products users know
 
-Also known as [Jakob’s Law of Internet User Experience](https://www.nngroup.com/videos/ jakobs-law-internet-ux/), which states:
+Also known as [Jakob’s Law of Internet User Experience](https://www.nngroup.com/videos/jakobs-law-internet-ux/), which states:
 > # “Users spend most of their time on other sites. This means that users prefer your site to work the same way as all the other sites they already know”.
 
 Over the years, I’ve found that part of the imagined ‘code of practice’ of designers is to not steal. As we train and learn, we’re taught to develop our own design style and not to borrow too much. Imitation is discouraged and copying the designs of others is frowned upon, dishonest even.
