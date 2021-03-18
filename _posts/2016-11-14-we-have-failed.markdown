@@ -35,31 +35,31 @@ UI. Every time. Uncluttered UI, user-focused, function over form.
 
 Some examples of UX disasters you probably see every day;
 
-![([Source](http://www.gcmutualbank.com.au/cards/verified-by-visa/demo-while-shopping))](https://cdn-images-1.medium.com/max/2000/1*VXPzi4XnEAOkVCD2K6BxSQ.jpeg)*([Source](http://www.gcmutualbank.com.au/cards/verified-by-visa/demo-while-shopping))*
+![([Source](http://www.gcmutualbank.com.au/cards/verified-by-visa/demo-while-shopping))](https://blog.willgrant.org/images/1*VXPzi4XnEAOkVCD2K6BxSQ.jpeg)*([Source](http://www.gcmutualbank.com.au/cards/verified-by-visa/demo-while-shopping))*
 
 **Banks** tell us to protect our details from identity theft, yet “3D Secure” asks for your details in a form (with such a lack of appreciation of the basics) that it looks exactly like a [phishing](https://en.wikipedia.org/wiki/Phishing) scam. And the primary action button is in the wrong place.
 
-![([Source](https://www.reddit.com/r/oldpeoplefacebook/comments/3ol175/robb_needs_help/))](https://cdn-images-1.medium.com/max/2000/1*HZ9JgPA3pPuLgy-ettRu5Q.png)*([Source](https://www.reddit.com/r/oldpeoplefacebook/comments/3ol175/robb_needs_help/))*
+![([Source](https://www.reddit.com/r/oldpeoplefacebook/comments/3ol175/robb_needs_help/))](https://blog.willgrant.org/images/1*HZ9JgPA3pPuLgy-ettRu5Q.png)*([Source](https://www.reddit.com/r/oldpeoplefacebook/comments/3ol175/robb_needs_help/))*
 
-![([Source](https://www.reddit.com/r/oldpeoplefacebook/comments/4tfmy6/dad_tries_to_send_a_video/))](https://cdn-images-1.medium.com/max/2000/1*Nt6ieUMzkRDiTd_W3sOKOw.png)*([Source](https://www.reddit.com/r/oldpeoplefacebook/comments/4tfmy6/dad_tries_to_send_a_video/))*
+![([Source](https://www.reddit.com/r/oldpeoplefacebook/comments/4tfmy6/dad_tries_to_send_a_video/))](https://blog.willgrant.org/images/1*Nt6ieUMzkRDiTd_W3sOKOw.png)*([Source](https://www.reddit.com/r/oldpeoplefacebook/comments/4tfmy6/dad_tries_to_send_a_video/))*
 
 People don’t understand how to use **Facebook**. *Facebook*. With a billion active users.
 
-![](https://cdn-images-1.medium.com/max/2000/1*-pWdRDpz3zwPPvadq5cfNw.png)
+![](https://blog.willgrant.org/images/1*-pWdRDpz3zwPPvadq5cfNw.png)
 
 How do I open a new tab in Google** Chrome**? **The tiny, unmarked, low-contrast button with no label, of course!** Can you honestly say that your mum or grandfather would know how to open a new tab? Would someone with less-than-perfect vision even *see* the button?
 
 Minimalism does not mean “make controls impossible to use”. This is not a ‘power user’ feature, it’s opening a new tab in a web browser.
 
-![](https://cdn-images-1.medium.com/max/2000/1*cxQ5lxMxKvF_J996AOcxUg.png)
+![](https://blog.willgrant.org/images/1*cxQ5lxMxKvF_J996AOcxUg.png)
 
 Apple’s **Music** app for iPhone. Installed on **hundreds of millions** of devices. The seek bar is 2 pixels high. **TWO FUCKING PIXELS**. It’s a portable device, I’m outside and I have to stop walking and peer at my phone to seek to a position in a track or podcast. Would it have killed them to make it thicker, or put a handle on there?
 
-![](https://cdn-images-1.medium.com/max/2000/1*oWcL2i96DeE_m3y95v05jw.png)
+![](https://blog.willgrant.org/images/1*oWcL2i96DeE_m3y95v05jw.png)
 
 State of this: the **Windows** system tray Network icon. The first thing you need to do on a new computer is connect it to a network. The fuck is this supposed to be? It looks like a spoon next to a table. In no way did that say ‘network’ to anyone, ever.
 
-![](https://cdn-images-1.medium.com/max/2000/1*maYjwRl2sOcsBzQZLi0V6Q.png)
+![](https://blog.willgrant.org/images/1*maYjwRl2sOcsBzQZLi0V6Q.png)
 
 And don’t get me started on the ‘flat design’ aesthetic. In Google **Calendar** on a touch screen device where *anything* can be tappable, **what is tappable?**
 

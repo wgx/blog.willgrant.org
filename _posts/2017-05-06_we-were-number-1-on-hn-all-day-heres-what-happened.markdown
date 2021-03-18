@@ -36,7 +36,7 @@ Pageviews: **38,502**
 
 The traffic held up well over the second day, and we served **over 64,000 page views** over 4 days.
 
-![TIL: lots of people bookmark things to read later.](https://cdn-images-1.medium.com/max/2000/1*g9Jprzgi74TdQ9Hg-LEY9A.png)*TIL: lots of people bookmark things to read later.*
+![TIL: lots of people bookmark things to read later.](https://blog.willgrant.org/images/1*g9Jprzgi74TdQ9Hg-LEY9A.png)*TIL: lots of people bookmark things to read later.*
 
 ### Meanwhile over at the product itself (SQLizer)
 

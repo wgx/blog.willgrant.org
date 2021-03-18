@@ -33,7 +33,7 @@ Generally though, try to keep text short and punchy — stick to the same princi
 
 People make mistakes, usually 100s of tiny mistakes every day, and they *will* make mistakes in your product. If your user is operating a CUI there should be a simple way of them correcting mistakes — just like an ‘Undo’ button in a traditional point & click UI. There’s an example wireframe below of a really simple way to present something like this to the user.
 
-![Providing an in-line ‘Undo’ control in a conversational user interface.](https://cdn-images-1.medium.com/max/2000/1*OniuKEpu38W7_4nFNII-bg.png)*Providing an in-line ‘Undo’ control in a conversational user interface.*
+![Providing an in-line ‘Undo’ control in a conversational user interface.](https://blog.willgrant.org/images/1*OniuKEpu38W7_4nFNII-bg.png)*Providing an in-line ‘Undo’ control in a conversational user interface.*
 
 Providing a clear way to undo a mistake makes users feel more confident in using and exploring your product knowing they can go back and ‘fix’ mistakes.
 

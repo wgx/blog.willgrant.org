@@ -33,7 +33,7 @@ You can decide where a control should be placed, or how an interaction should be
 
 **Possible**: Interactions we classify as possible are rarely-used and they are often advanced features. They need to be discoverable, but they shouldn’t be given the same prominence as obvious or easy interactions. For example, it is possible to adjust the white balance or auto-focus on a camera app, or make an event recurring on a calendar app. These advanced controls can be tucked further away, as the majority of users will not need to see their UI cluttered with them.
 
-![*The iOS camera UI (above) balances these three classes of interaction well.*](https://cdn-images-1.medium.com/max/2000/0*ZSje-ZaFCo_W8Si_)**The iOS camera UI (above) balances these three classes of interaction well.**
+![*The iOS camera UI (above) balances these three classes of interaction well.*](https://blog.willgrant.org/images/0*ZSje-ZaFCo_W8Si_)**The iOS camera UI (above) balances these three classes of interaction well.**
 
 ## #3 Hide ‘advanced’ settings from most users
 
@@ -79,7 +79,7 @@ In some fields, medicine for example, professionals have a code of conduct and e
 
 **All of these dark patterns and addictive products were designed by normal people working in normal software companies — they had a choice.** They chose to fight for the company, not the user. **Be a good UX designer and don’t be evil.**
 
-![A sense of urgency is a frequently-used dark pattern on hotel booking sites.](https://cdn-images-1.medium.com/max/2000/0*wsj-M1pGzhhLsu59)*A sense of urgency is a frequently-used dark pattern on hotel booking sites.*
+![A sense of urgency is a frequently-used dark pattern on hotel booking sites.](https://blog.willgrant.org/images/0*wsj-M1pGzhhLsu59)*A sense of urgency is a frequently-used dark pattern on hotel booking sites.*
 
 ## #6 Test with real users
 
