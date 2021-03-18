@@ -4,8 +4,6 @@ title: "7 Underrated UX Principles"
 date: 2020-03-10 00:00:00 -0000
 ---
 
-# 7 Underrated UX Principles
-
 The fields of user experience (UX) and product design are relatively large; in that — if you’re a newcomer to the field and want to study UX design there’s a lot to learn and a great many UX books to be read and courses to be completed. You can install a browser extension like [UX Principles](https://chrome.google.com/webstore/detail/ux-principles/lkocmoifkaklbogeeldjgbhengeokgki) to give you constant reminders — but where do you start, and which principles should you focus on?
 
 **If only there was a way to ‘shortcut’ this process and learn a few basic UX principles that solve the most common UX problems.**

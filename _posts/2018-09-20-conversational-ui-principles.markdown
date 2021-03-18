@@ -4,8 +4,6 @@ title: "6 Conversational UI Principles"
 date: 2018-09-20 00:00:00 -0000
 ---
 
-# 6 Conversational UI Principles
-
 6 Conversational UI Principles
 
 ### Conversational user interfaces (CUI) are big right now, and they deserve to be: they’re focused, simple, and widely-understood by users.

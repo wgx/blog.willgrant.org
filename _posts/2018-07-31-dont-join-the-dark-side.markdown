@@ -4,10 +4,6 @@ title: "Don’t Join the Dark Side"
 date: 2018-07-31 00:00:00 -0000
 ---
 
-# #99: Don’t Join the Dark Side
-
-99: Don’t Join the Dark Side
-
 People check their smartphones *a lot*.
 
 One reason for this is that, in some way, it’s a kind of ‘gamble’. You check your phone and maybe there are no notifications or maybe there’s a ‘red blob’.

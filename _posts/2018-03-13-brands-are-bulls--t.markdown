@@ -4,10 +4,6 @@ title: "Brands are bulls**t"
 date: 2018-03-13 00:00:00 -0000
 ---
 
-# Brands are bulls**t
-
-Brands are bulls**t
-
 ***This is an excerpt from Will Grant’s forthcoming book [‘101 UX Principles’ which is available to pre-order now](http://amzn.to/2pakk4p) on Kindle, eBook and in paperback.***
 
 I don’t mean ‘brand’ in the sense of ‘visual identity’: a good logo, wordmark or tagline is a great idea. I mean ‘brand’ in the modern sense, a *wooly definition* that’s come to be commonplace over the past 10 years or so.

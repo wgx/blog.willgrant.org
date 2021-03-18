@@ -4,8 +4,6 @@ title: "We have failed"
 date: 2016-11-14 00:00:00 -0000
 ---
 
-# We have failed
-
 We have failed
 
 ### And by ‘we’ I mean ‘you’.

@@ -4,8 +4,6 @@ title: "Five success criteria for your startup"
 date: 2015-11-03 00:00:00 -0000
 ---
 
-# Five success criteria for your startup
-
 I have been lucky enough to see “under the hood” of 100s of startup companies — mostly early-stage web technology companies — and I’ve spotted some patterns.
 
 That is to say, startups that I’ve seen succeed often adhere to many of these criteria. **These aren’t “hard and fast” rules**, but they are ways of increasing your chance of success, reducing obvious failures and making your startup journey a tiny bit less painful.

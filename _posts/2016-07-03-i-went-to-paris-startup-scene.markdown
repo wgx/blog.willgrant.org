@@ -4,8 +4,6 @@ title: "I went to Paris, here are some words"
 date: 2016-07-03 00:00:00 -0000
 ---
 
-# I went to Paris, here are some words
-
 I went to Paris, here are some words
 
 Thanks to a complicated series of events and (possibly) mistaken identity, I found myself in Paris this week for three days. A large global bank were under the false impression that I could help fix their doomed business models and funded the entire trip.
