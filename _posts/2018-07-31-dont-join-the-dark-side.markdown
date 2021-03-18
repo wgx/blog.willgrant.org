@@ -3,10 +3,7 @@ layout: post
 title: "Don’t Join the Dark Side"
 date: 2018-07-31 00:00:00 -0000
 ---
-
-People check their smartphones *a lot*.
-
-One reason for this is that, in some way, it’s a kind of ‘gamble’. You check your phone and maybe there are no notifications or maybe there’s a ‘red blob’.
+People check their smartphones *a lot*. One reason for this is that, in some way, it’s a kind of ‘gamble’. You check your phone and maybe there are no notifications or maybe there’s a ‘red blob’.
 
 Maybe someone’s liked your Facebook post or someone’s ‘faved’ your Instagram picture of your brunch or your pet.
 
@@ -42,6 +39,6 @@ All of these dark patterns and addictive products were designed by normal people
 
 Be a good UX professional, fight for the user and don’t join the dark side.
 
-*This is an excerpt from my forthcoming book “[**101 UX Principles: A Definitive Design Guide](https://amzn.to/2GvS8V8)**” (Packt Publishing) which is available to order now.*
+*This is an excerpt from my forthcoming book “[101 UX Principles: A Definitive Design Guide](https://amzn.to/2GvS8V8)” (Packt Publishing) which is available to order now.*
 
 ***101 UX Principles** covers everything from terminology to planning the user journey and offers 101 ways to solve 101 UX problems clearly and single-mindedly and will be out soon.*

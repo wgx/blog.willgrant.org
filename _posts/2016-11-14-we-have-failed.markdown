@@ -3,12 +3,7 @@ layout: post
 title: "We have failed"
 date: 2016-11-14 00:00:00 -0000
 ---
-
-We have failed
-
 ### And by ‘we’ I mean ‘you’.
-
-***📗 Will’s forthcoming book [‘101 UX Principles’ which is available to pre-order now](http://amzn.to/2pakk4p) on Kindle, eBook and in paperback.***
 
 In this post I’m going to argue that we, as a generation of designers and developers, have failed. Failed spectacularly.
 
@@ -124,5 +119,3 @@ Ok, now look at the user interface of your product and ask yourself;
 > # Does this make any fucking sense at all?
 
 *Will’s book [‘101 UX Principles’](http://amzn.to/2pakk4p) is available on Amazon.*
-
-Will Grant is co-founder of UX-focused analytics product [Prodlytic](https://prodlytic.com) and is [@wgx](https://twitter.com/wgx) on Twitter ***and Will Grant’s forthcoming book [‘101 UX Principles’ which is available to pre-order now](http://amzn.to/2pakk4p) on Kindle, eBook and in paperback.***

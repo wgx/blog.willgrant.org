@@ -3,7 +3,6 @@ layout: post
 title: "We were number 1 on HN all day, here’s what happened"
 date: 2017-05-06 00:00:00 -0000
 ---
-
 SQLizer is a database migration and conversion tool — it takes Excel, JSON or XML or CSV files and turns them into SQL databases (MySQL or MS SQL Server).
 
 We wrote a blog post about SQL — the language — itself, how it’s been around for over 40 years and how it’s often (still) the best tool for the job.

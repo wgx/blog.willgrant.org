@@ -3,9 +3,6 @@ layout: post
 title: "Significance"
 date: 2019-01-28 00:00:00 -0000
 ---
-
-Significance
-
 The [vision statement](https://wikimediafoundation.org/wiki/Vision) of the Wikimedia foundation (who run Wikipedia) is;
 > *Imagine a world in which every single human being can freely share in the sum of all knowledge. That’s our commitment.*
 
