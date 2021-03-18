@@ -15,7 +15,7 @@ Here are 7 selected extracts, taken from my 2018 book ‘[101 UX Principles](htt
 
 This is less of a problem today than it once was, simply because UI frameworks like Bootstrap have a great set of default buttons.
 
-![*Buttons that exhibit visual affordances (called ‘signifiers’) such as texture and pseudo-3D shadows (left) consistently perform better in user tests than those without them (right).*](https://cdn-images-1.medium.com/max/3000/0*oPyGmT_JHTMJutf9)**Buttons that exhibit visual affordances (called ‘signifiers’) such as texture and pseudo-3D shadows (left) consistently perform better in user tests than those without them (right).**
+![*Buttons that exhibit visual affordances (called ‘signifiers’) such as texture and pseudo-3D shadows (left) consistently perform better in user tests than those without them (right).*](https://blog.willgrant.org/images/0*oPyGmT_JHTMJutf9)**Buttons that exhibit visual affordances (called ‘signifiers’) such as texture and pseudo-3D shadows (left) consistently perform better in user tests than those without them (right).**
 
 By drawing on real-world examples, we can make UI buttons that are obvious and instantly familiar. The human visual system is tuned to see depth, and by including the illusion of depth in your UI, you add a whole layer of useful information for the user.
 
