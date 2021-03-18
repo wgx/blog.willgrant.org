@@ -1,3 +1,4 @@
+---
 layout: post
 title: "Brands are bulls**t"
 date: 2018-03-13 00:00:00 -0000
