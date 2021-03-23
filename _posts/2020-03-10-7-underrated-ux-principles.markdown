@@ -15,7 +15,9 @@ Here are 7 selected extracts, taken from my 2018 book ‘[101 UX Principles](htt
 
 This is less of a problem today than it once was, simply because UI frameworks like Bootstrap have a great set of default buttons.
 
-![*Buttons that exhibit visual affordances (called ‘signifiers’) such as texture and pseudo-3D shadows (left) consistently perform better in user tests than those without them (right).*](https://blog.willgrant.org/images/0*oPyGmT_JHTMJutf9.png)**Buttons that exhibit visual affordances (called ‘signifiers’) such as texture and pseudo-3D shadows (left) consistently perform better in user tests than those without them (right).**
+![*Buttons that exhibit visual affordances (called ‘signifiers’) such as texture and pseudo-3D shadows (left) consistently perform better in user tests than those without them (right).*](https://blog.willgrant.org/images/0*oPyGmT_JHTMJutf9.png)
+
+**Buttons that exhibit visual affordances (called ‘signifiers’) such as texture and pseudo-3D shadows (left) consistently perform better in user tests than those without them (right).**
 
 By drawing on real-world examples, we can make UI buttons that are obvious and instantly familiar. The human visual system is tuned to see depth, and by including the illusion of depth in your UI, you add a whole layer of useful information for the user.
 
@@ -33,7 +35,9 @@ You can decide where a control should be placed, or how an interaction should be
 
 **Possible**: Interactions we classify as possible are rarely-used and they are often advanced features. They need to be discoverable, but they shouldn’t be given the same prominence as obvious or easy interactions. For example, it is possible to adjust the white balance or auto-focus on a camera app, or make an event recurring on a calendar app. These advanced controls can be tucked further away, as the majority of users will not need to see their UI cluttered with them.
 
-![*The iOS camera UI (above) balances these three classes of interaction well.*](https://blog.willgrant.org/images/0*ZSje-ZaFCo_W8Si_.png)**The iOS camera UI (above) balances these three classes of interaction well.**
+![*The iOS camera UI balances these three classes of interaction well.*](https://blog.willgrant.org/images/0*ZSje-ZaFCo_W8Si_.png)
+
+**The iOS camera UI (above) balances these three classes of interaction well.**
 
 ## #3 Hide ‘advanced’ settings from most users
 
@@ -79,7 +83,9 @@ In some fields, medicine for example, professionals have a code of conduct and e
 
 **All of these dark patterns and addictive products were designed by normal people working in normal software companies — they had a choice.** They chose to fight for the company, not the user. **Be a good UX designer and don’t be evil.**
 
-![A sense of urgency is a frequently-used dark pattern on hotel booking sites.](https://blog.willgrant.org/images/0*wsj-M1pGzhhLsu59.png)*A sense of urgency is a frequently-used dark pattern on hotel booking sites.*
+![A sense of urgency is a frequently-used dark pattern on hotel booking sites.](https://blog.willgrant.org/images/0*wsj-M1pGzhhLsu59.png)
+
+*A sense of urgency is a frequently-used dark pattern on hotel booking sites.*
 
 ## #6 Test with real users
 
@@ -126,6 +132,6 @@ It’s not exciting or sexy — you’re not inventing a whole new class of prod
 
 ## More UX Principles?
 
-The totally free [**UX Principles Browser Extension](https://chrome.google.com/webstore/detail/ux-principles/lkocmoifkaklbogeeldjgbhengeokgki)** teaches you a useful UX tip with every new tab you open for Chrome & Firefox, with over 200 UX principles from UX luminaries like Jakob Nielsen, Bruce Tognazzini and Don Norman.
+The totally free [UX Principles Browser Extension](https://chrome.google.com/webstore/detail/ux-principles/lkocmoifkaklbogeeldjgbhengeokgki) teaches you a useful UX tip with every new tab you open for Chrome & Firefox, with over 200 UX principles from UX luminaries like Jakob Nielsen, Bruce Tognazzini and Don Norman.
 
-The book [**101 UX Principles](https://uxbook.io)**, is available now in paperback, Kindle and eBook formats.
+The book [101 UX Principles](https://uxbook.io), is available now in paperback, Kindle and eBook formats.
