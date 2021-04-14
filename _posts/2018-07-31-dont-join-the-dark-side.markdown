@@ -9,7 +9,9 @@ Maybe someone’s liked your Facebook post or someone’s ‘faved’ your Insta
 
 Each time you get a notification, you feel happy: your brain releases a little bit of dopamine. So you wait a little while and you check your phone again, hoping for the same result and reinforcing the addictive behavior loop.
 
-This isn’t an accident. Many modern products, especially in social media, are *designed* to be addictive. In [*Hooked: A Guide to Building Habit-Forming Products](https://www.nirandfar.com/hooked)*, psychologist Nir Eyal proposes the Hook model: “The Hook Model — a four-step process that, when embedded into products, subtly encourages customer behavior. Through consecutive ‘hook cycles,’ these products bring people back again and again without depending on costly advertising or aggressive messaging.”
+This isn’t an accident. Many modern products, especially in social media, are *designed* to be addictive. In *[Hooked: A Guide to Building Habit-Forming Products](https://www.nirandfar.com/hooked)*, psychologist Nir Eyal proposes the Hook model: 
+
+>“The Hook Model — a four-step process that, when embedded into products, subtly encourages customer behavior. Through consecutive ‘hook cycles,’ these products bring people back again and again without depending on costly advertising or aggressive messaging.”
 
 ![*In order to **not** send your contacts to Facebook, you need to tap “Learn More.”*](https://blog.willgrant.org/images/0*8w7zILrsPxPs1876.jpg)
 
