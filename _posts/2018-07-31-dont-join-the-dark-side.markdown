@@ -19,7 +19,7 @@ This isn’t an accident. Many modern products, especially in social media, are 
 
 Next, there are so-called ‘dark patterns’ (see image above), which are UI or UX patterns designed to *trick* the user into doing what the corporation or brand wants them to do.
 
-These are, in a way, exactly the same as the scams used by old-time fraudsters and rogue traders, now transplanted to the web and updated for the post-internet age. You’ll definitely have come across some of these:
+These are, in a way, exactly the same as the scams used by old-time fraudsters and rogue traders, now transplanted to the web and updated for the internet age. You’ll definitely have come across some of these:
 
 * Shopping carts that add extra ‘add-on’ items (like insurance, protection policies, etc.) to your cart before you check out, hoping that you won’t remove them
 
