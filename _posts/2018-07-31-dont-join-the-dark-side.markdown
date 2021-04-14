@@ -15,7 +15,7 @@ This isn’t an accident. Many modern products, especially in social media, are 
 
 ![*In order to **not** send your contacts to Facebook, you need to tap “Learn More.”*](https://blog.willgrant.org/images/0*8w7zILrsPxPs1876.jpg)
 
-**In order to **not** send your contacts to Facebook, you need to tap “Learn More.”**
+**In order to _not_ send your contacts to Facebook, you need to tap “Learn More.”**
 
 Next, there are so-called ‘dark patterns’ (see image above), which are UI or UX patterns designed to *trick *the user into doing what the corporation or brand wants them to do.
 
@@ -23,15 +23,15 @@ These are, in a way, exactly the same as the scams used by old-time fraudsters a
 
 * Shopping carts that add extra ‘add-on’ items (like insurance, protection policies, etc.) to your cart before you check out, hoping that you won’t remove them
 
-* Search results that begin their list by showing the best item *they’d like to sell you *instead of the best result
+* Search results that begin their list by showing the best item *they’d like to sell you* instead of the best result
 
 * Ads that don’t look like ads, so you accidentally tap them
 
 * Changing a user’s settings: edit your private profile and if you don’t explicitly make it private again, the company will switch it back to public
 
-* Unsubscribe ‘confirmation screens’, where you have to uncheck a ton of checkboxes *just right* to actually unsubscribe
+* Confirmation screens, where you have to uncheck a ton of checkboxes *just right* to actually unsubscribe
 
-* Software in the engine management computer which checks if the vehicle is being emissions tested and, if so, lowers the performance and emissions
+* Software in the engine management computer which checks if the vehicle is being emissions tested and, if so, lowers the performance and emissions ;)
 
 And so on. There are hundreds. Please don’t do any of them.
 
