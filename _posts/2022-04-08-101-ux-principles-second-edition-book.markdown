@@ -3,7 +3,7 @@ layout: post
 title: "101 UX Principles - Version 2.0"
 date: 2022-04-08 00:00:00 -0000
 ---
-## A second edition of my book 101 UX Principles is available to pre-order now.
+## A second edition of my [book 101 UX Principles](https://uxbook.io/) is available to pre-order now.
 
 ![101 UX Principles - Second Edition Book Cover](https://blog.willgrant.org/images/101-ux-2e-cover-mock.png)
 
