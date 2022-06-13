@@ -16,7 +16,7 @@ Analytics cookies allow teams to understand detailed information about who visit
 Most users fall into one of these three categories.
 
 1. "I don’t care" - **accept** and visit the site
-2. "I care about their privacy" - or don’t trust the site, **reject**
+2. "I care about my privacy" - or don’t trust the site, **reject**
 3. "I care a lot" - and I want to tailor specific trackers
 
 Given these three obvious use cases, it is remarkable that most cookie consent controls only offer the following "all or nothing" options:
