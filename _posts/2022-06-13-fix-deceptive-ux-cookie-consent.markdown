@@ -34,6 +34,8 @@ The obvious user-friendly solution for this is to do the following:
 1. Accept analytics cookies
 2. Reject analytics cookies
 
+![A user friendly cookie consent wireframe](https://blog.willgrant.org/images/friendly-cookie-consent-wireframe.png)
+
 It’s that simple. Give users a clear way to accept or reject optional tracking cookies, without menu-diving. Anything less is deliberately shady. 
 
 ---
