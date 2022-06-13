@@ -38,4 +38,4 @@ It’s that simple. Give users a clear way to accept or reject optional tracking
 
 ---
 
-## A second edition of my Amazon best-selling [book 101 UX Principles](https://uxbook.io/) is available to buy now.
+**The second edition of my Amazon best-selling [book 101 UX Principles](https://uxbook.io/) is available to buy now.**
