@@ -41,6 +41,6 @@ A brand can help enforce consistency, but if you’re a decent designer you shou
 
 Brands are bullshit, focus on the user experience and the experience *becomes* the brand.
 
-**📗 *This is an excerpt from Will Grant’s forthcoming book [‘101 UX Principles’ which is available to pre-order now](http://amzn.to/2pakk4p) on Kindle, eBook and in paperback.***
+**📗 *This is an excerpt from Will Grant’s forthcoming book [‘101 UX Principles’ which is available to buy now](http://amzn.to/2pakk4p) on Kindle, eBook and in paperback.***
 
 If you liked this post you might also like an earlier UX post on Medium ‘[We have failed](https://medium.com/initialcommit/we-have-failed-604df0e1d3d4)’.
