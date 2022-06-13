@@ -28,7 +28,7 @@ It’s a deliberate deceptive pattern that’s everywhere, and it’s ironic tha
 
 The obvious user-friendly solution for this is to do the following:
 
-- Don’t use marketing/analytics cookies or,
+- Don’t use marketing/analytics cookies (like this site) or,
 - If you absolutely *must*, then give your visitors two simple options:
 
 1. Accept analytics cookies
