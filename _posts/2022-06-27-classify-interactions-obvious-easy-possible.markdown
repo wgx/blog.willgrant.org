@@ -19,7 +19,7 @@ As a visual example, the iOS camera UI balances these three classes of interacti
 
 These decisions are vital to the success of your UI and therefore the UX and product as a whole. 
 
-**Start early** - at the paper prototyping or wireframe stage.
+**Start early** - at the prototyping or wireframe stage.
 
 **Test often** - looking at what users are doing and how they are discovering features and settings.
 
@@ -27,4 +27,4 @@ These decisions are vital to the success of your UI and therefore the UX and pro
 
 ---
 
-This is an extract from the second edition of my Amazon best-selling book 101 UX Principles: available to buy now.
+This is an extract from the second edition of my [Amazon best-selling UX book, 101 UX Principles](https://uxbook.io/): available to buy now.
