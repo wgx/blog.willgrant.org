@@ -19,11 +19,11 @@ _The ‘gold standard’ search control._
 
 The placeholder text (“type to search” in the above example) is a vital and often overlooked piece of UI copy. In a couple of well-chosen words, the UX designer can give valuable hints and context to the user. 
 
-For example: “type to search” indicates to the user they’re searching a set of data (products, customers, and so on) — but “filter results” would indicate that they’re instead limiting the data set already in view. \
+For example: “type to search” indicates to the user they’re searching a set of data (products, customers, and so on) — but “filter results” would indicate that they’re instead limiting the data set already in view.
 
-Care should be taken with regard to accessibility; ensure that placeholder text is still readable and not low-contrast, and don’t replace perfectly good form labels with placeholder text. Placeholder text is an added “bonus” and not a replacement for form labels. \
+Care should be taken with regard to accessibility; ensure that placeholder text is still readable and not low-contrast, and don’t replace perfectly good form labels with placeholder text. Placeholder text is an added “bonus” and not a replacement for form labels.
 
-**Instant search**, where typing instantly shows results to the user, is often better than showing a separate search results page. Instant results are more immediate and can let the user navigate to a result without breaking their flow inside your product.  \
+**Instant search**, where typing instantly shows results to the user, is often better than showing a separate search results page. Instant results are more immediate and can let the user navigate to a result without breaking their flow inside your product.
 
 On a mobile phone screen, there may not be enough space to always show the search field, but I’d still encourage you to evaluate whether you can fit one in. Tucking the search field into the top of a scrolling view can work well. 
 
@@ -48,11 +48,11 @@ Tapping _Search_ in Spotify takes you straight to the search view with the input
 
 **Learning points**
 
-* Search should be a text field with a search button \
+* Search should be a text field with a search button
  						
-* Only use the “magnifying glass” icon for search \
+* Only use the “magnifying glass” icon for search
  						
-* Move the focus to the search field when the **Search **tab is tapped on mobile 
+* Move the focus to the search field when the _Search tab_ is tapped on mobile 
 
 ---
 
