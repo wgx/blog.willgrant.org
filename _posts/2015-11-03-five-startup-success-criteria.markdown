@@ -11,15 +11,19 @@ That is to say, startups that I’ve seen succeed often adhere to many of these 
 
 A clearly-defined customer is best illustrated by way of a couple of example startup ideas;
 
-Appointment booking for dental surgeries
-Recruitment software for hospitals
-A site that lets you compare local property agents
+* Appointment booking for dental surgeries
+
+* Recruitment software for hospitals
+
+* A site that lets you compare local property agents
 
 Not;
 
-A social network
-A search engine
-An instant messenger
+* A social network
+
+* A search engine
+
+* An instant messenger
 
 **Not because the problem is “too hard”, but because the audience is *too wide*.**
 
