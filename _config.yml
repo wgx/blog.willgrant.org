@@ -7,6 +7,7 @@ minima:
   social_links:
     twitter: wgx
     github:  wgx
+    linkedin: iamwill
 
 theme: minima
 url: "https://blog.willgrant.org"
