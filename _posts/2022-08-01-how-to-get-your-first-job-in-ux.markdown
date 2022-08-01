@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How to Get Your First Job in UX"
+title: "How to Get Your First Job in UX: A Guide"
 date: 2022-08-01 00:20:00 -0000
 ---
 I get asked this question a lot, so it seems like a good idea to collect my thoughts and turn it into a post - I aim to update this regularly as I think of new things.
