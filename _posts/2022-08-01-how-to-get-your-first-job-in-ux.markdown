@@ -5,7 +5,7 @@ date: 2022-08-01 00:20:00 -0000
 ---
 I get asked this question a lot, so it seems like a good idea to collect my thoughts and turn it into a post - I aim to update this regularly as I think of new things.
 
-I’ve done a lot of UX work over the past 20+ years, from freelance and contract, to startups and big enterprise companies. I’ve also seen _thousands _of CVs (really) and hired over 100 people into design roles. Here’s my take on things…
+I’ve done a lot of UX work over the past 20+ years, from freelance and contract, to startups and big enterprise companies. I’ve also seen _thousands_ of CVs (really) and hired over 100 people into design roles. Here’s my take on things...
 
 
 ## Background
@@ -110,11 +110,11 @@ Here are some books that I’d consider essential for any newcomer to User Exper
 
 ### Speculative projects
 
-Speculative projects (often called “spec work” or similar) is where you _pretend _to be working for a real paying client: but do all the work yourself for a portfolio piece. They’re great for a few reasons; first, they’re great practice. Setting yourself a challenge like “let’s redesign Instagram for the macOS desktop” or “Could I design an Uber for dog sitting” is a doorway to a whole heap of new ideas and exploration. You’ll flex those UX muscles and finish the process with a bit more practice under your belt.
+Speculative projects (often called “spec work” or similar) is where you _pretend_ to be working for a real paying client: but do all the work yourself for a portfolio piece. They’re great for a few reasons; first, they’re great practice. Setting yourself a challenge like “let’s redesign Instagram for the macOS desktop” or “Could I design an Uber for dog sitting” is a doorway to a whole heap of new ideas and exploration. You’ll flex those UX muscles and finish the process with a bit more practice under your belt.
 
-Second: they can help bulk out a beginner’s portfolio - obviously the hiring manager will know you _didn’t actually _work for Instagram, but you can demonstrate your process anyway.
+Second: they can help bulk out a beginner’s portfolio - obviously the hiring manager will know you _didn’t actually_ work for Instagram, but you can demonstrate your process anyway.
 
-Finally: they look great to recruiters and hiring managers. A spec project shows your work _and _shows your interest in the field. Being curious and interested in product design is very attractive to hiring managers. 
+Finally: they look great to recruiters and hiring managers. A spec project shows your work _and_ shows your interest in the field. Being curious and interested in product design is very attractive to hiring managers. 
 
 
 ## Getting hired
@@ -131,7 +131,7 @@ There’s lots to like about the freelance (or short-term contract) life: you ge
 
 There are some downsides too: you need to be constantly searching for work, always thinking about the next gig. After a while, it feels like 80% of your job is sales, prospecting, client management (ie: please pay me!) - with a little bit of time left over to actually do design work. 
 
-**How to get that first freelance client **
+**How to get that first freelance client**
 
 Look at existing customers - who have you worked for in the last 6 months or 12 months (in any capacity) - reach out to them: do they need any UX projects tackling?
 
@@ -173,7 +173,7 @@ The people interviewing you are asking themselves “is this person nice, decent
 * **Evidence of interest** - does this candidate have a genuine interest in UX, what have they done “[off their own bat](https://dictionary.cambridge.org/dictionary/english/do-off-own-bat)”: internships, spec work, blog posts, online portfolio
 * **Evidence of experience** - hard if you’re new to the sector, but put down anything you can think of: did you perform some related work in a previous role that you can mention?
 * **Evidence of methodology** - do you understand a modern product design methodology, do you use one? How can you evidence this with examples? No experience? Fine: talk about what you learned on your course or university degree.
-* **Evidence of commercial awareness **- design doesn’t operate in a vacuum. Do you understand the company, its products, competitors and market? Demonstrate you’ve done some basic background research.
+* **Evidence of commercial awareness**- design doesn’t operate in a vacuum. Do you understand the company, its products, competitors and market? Demonstrate you’ve done some basic background research.
 
 **The “take home test”**
 
