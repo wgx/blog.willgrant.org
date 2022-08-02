@@ -104,6 +104,12 @@ Here are some books that I’d consider essential for any newcomer to User Exper
    <td>You’re always designing <em>for</em> someone else, and how you present and communicate your work to those stakeholders is vital.
    </td>
   </tr>
+  <tr>
+   <td><a href="https://abookapart.com/products/just-enough-research">Just Enough Research</a> - Erika Hall
+   </td>
+   <td>Compact, well-written guide to the different types of research and how you can get started with each of them.
+   </td>
+  </tr>
 </table>
 
 
