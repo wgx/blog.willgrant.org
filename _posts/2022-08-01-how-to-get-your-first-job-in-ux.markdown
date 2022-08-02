@@ -176,7 +176,7 @@ I’ve lumped these together because, in a way, you’re trying to demonstrate t
 The people interviewing you are asking themselves “is this person nice, decent, approachable **and** can they do the job?”.
 
 
-* **Evidence of interest** - does this candidate have a genuine interest in UX, what have they done “[off their own bat](https://dictionary.cambridge.org/dictionary/english/do-off-own-bat)”: internships, spec work, blog posts, online portfolio
+* **Evidence of interest** - does this candidate have a genuine interest in UX, what have they done “[off their own bat](https://dictionary.cambridge.org/dictionary/english/do-off-own-bat)”: internships, spec work, blog posts, online portfolio, even evidence of being mentored by a more senior [designer on a platform like ADPList](https://adplist.org/explore?tab=mentors&expertise=24).
 * **Evidence of experience** - hard if you’re new to the sector, but put down anything you can think of: did you perform some related work in a previous role that you can mention?
 * **Evidence of methodology** - do you understand a modern product design methodology, do you use one? How can you evidence this with examples? No experience? Fine: talk about what you learned on your course or university degree.
 * **Evidence of commercial awareness**- design doesn’t operate in a vacuum. Do you understand the company, its products, competitors and market? Demonstrate you’ve done some basic background research.
