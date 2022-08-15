@@ -5,7 +5,7 @@ date: 2016-07-03 00:00:00 -0000
 ---
 Thanks to a complicated series of events and (possibly) mistaken identity, I found myself in Paris this week for three days. A large global bank were under the false impression that I could help fix their doomed business models and funded the entire trip.
 
-I went to [Viva Technology ](http://www.vivatechnologyparis.com/)— which has usurped the now defunct [Le Web](http://leweb.co/) conference as the biggest in France.
+I went to [Viva Technology ](http://www.vivatechnologyparis.com/)— which has usurped the now defunct "Le Web" conference as the biggest in France.
 
 I did a **ton** of cool stuff, including;
 
