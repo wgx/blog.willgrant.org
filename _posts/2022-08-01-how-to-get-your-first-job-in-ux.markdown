@@ -7,6 +7,34 @@ I’ve done a lot of UX work over the past 20+ years, from freelance and contrac
 
 <sup><sub>Version 1.3, Updated 16 August 2022</sub></sup>
 
+- [1. Background](#1-background)
+  * [Why work in UX?](#why-work-in-ux-)
+  * [Impact](#impact)
+  * [Human](#human)
+  * [Remote-friendly](#remote-friendly)
+  * [Transition paths](#transition-paths)
+  * [Education needed](#education-needed)
+  * [Skills needed](#skills-needed)
+- [2. Preparation](#2-preparation)
+  * [Courses and bootcamps](#courses-and-bootcamps)
+  * [Books](#books)
+  * [Speculative projects](#speculative-projects)
+  * [Volunteer projects](#volunteer-projects)
+- [3. Your portfolio](#3-your-portfolio)
+  * [The portfolio paradox](#the-portfolio-paradox)
+  * [What to include in your portfolio](#what-to-include-in-your-portfolio)
+  * [What not to include in your portfolio](#what-not-to-include-in-your-portfolio)
+- [4. Getting hired](#4-getting-hired)
+  * [Move internally](#move-internally)
+  * [Freelance work](#freelance-work)
+  * [How to get that first freelance client](#how-to-get-that-first-freelance-client)
+  * [Applying for jobs](#applying-for-jobs)
+  * [Resume](#resume)
+  * [The Interview (and Cover Letters)](#the-interview--and-cover-letters-)
+  * [The "take home test"](#the--take-home-test-)
+- [5. Conclusion](#5-conclusion)
+
+
 
 ## 1. Background
 
