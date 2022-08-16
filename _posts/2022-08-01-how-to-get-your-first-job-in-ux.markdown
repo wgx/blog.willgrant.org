@@ -3,14 +3,12 @@ layout: post
 title: "How to Get Your First Job in UX: A Guide"
 date: 2022-08-01 00:20:00 -0000
 ---
-<sup><sub>Version 1.2, Updated 15 August 2022</sub></sup>
+I’ve done a lot of UX work over the past 20+ years, from freelance and contract, to startups and big enterprise companies. I’ve also seen _thousands_ of CVs (really) and hired over 100 people into design roles. I get asked (some permuation of) this question a lot, so it seems like a good idea to collect my thoughts and turn it into a guide - I aim to update this regularly as I think of new things.
 
-I get asked this question a lot, so it seems like a good idea to collect my thoughts and turn it into a post - I aim to update this regularly as I think of new things.
-
-I’ve done a lot of UX work over the past 20+ years, from freelance and contract, to startups and big enterprise companies. I’ve also seen _thousands_ of CVs (really) and hired over 100 people into design roles. Here’s my take on things...
+<sup><sub>Version 1.3, Updated 16 August 2022</sub></sup>
 
 
-## Background
+## 1. Background
 
 ### Why work in UX?
 
@@ -52,14 +50,17 @@ Everything you do as a UX designer can be learned as an adult. It’s not like t
 
 You need empathy to understand your users’ needs, goals, and frustrations. To "walk a mile in their shoes" requires you to approach user problems with respect— they’re not stupid, your software is just too hard to use. You need objectivity to look at your product with fresh eyes, spot the flaws, and fix them.
 
-**Note taking and writing** are essential. If you can’t write well, you’ll find it hard to succeed in UX. You’ll need to take notes from stakeholders (internal and external), user interviews and handover meetings with engineering. You’ll need to write product copy, documentation and UI copy. If you can write well - you’ve got a head start in UX. 
+**Communication (written and verbal)** are essential skills. If you can’t write well, you’ll find it hard to succeed in UX. You’ll need to take notes from stakeholders (internal and external), user interviews and handover meetings with engineering. You’ll need to write product copy, documentation and UI copy. If you can write well - you’ve got a head start in UX. 
+
+[Communicating design decisions](https://amzn.to/3PQxyyd) to other people is vital. We need to do a certain amount of evangelism to convince people of our design work, explaining the thought process and problems along the journey that led us to _this_ solution. Communication is two-way of course, so you need to be receptive to new ideas, feedback and things you haven’t considered (or have simply gotten wrong). 
+
+You need to "read the room" and adjust your presentation style for the audience - you'll talk in very high-level terms with the CEO or other senior stakeholders, explaining why you took a certain design decision and how it relates to the wider company goals. Likewise, you'll be talking about the details of an interaction, or some UI copy with product managers or front-end engineers. 
 
 **Wireframing & Prototyping** represents a lot of the "doing" - once you’ve thought everything through, you’ll need to express how the software works visually and tools like Figma, Sketch, Miro, Axure and so on are the way to do this. They’re not difficult tools to learn (for wireframes) - and most have component libraries of UI elements you can drag and drop onto the canvas to lay out screens. 
 
-A word about **communication**, separate from writing, is that [communicating design decisions](https://amzn.to/3PQxyyd) to other people is vital. We need to do a certain amount of evangelism to convince people of our design work, explaining the thought process and problems along the journey that led us to _this_ solution. Communication is two-way of course, so you need to be receptive to new ideas, feedback and things you haven’t considered (or have simply gotten wrong). 
 
 
-## Preparation
+## 2. Preparation
 
 
 ### Courses and bootcamps
@@ -137,7 +138,7 @@ Finally: they look great to recruiters and hiring managers. A spec project shows
 One step up from spec work is actually working on a real product as a volunteer. Many small charities have little to no design resource internally - but they all have websites (and apps) in need of major UX improvements. I have first hand experience of this as I volunteered for a small health charity in my country: their site had never had the slightest bit of "UX love" and I was able to do a lot of work for them to improve their donations conversion and generally apply some UX best practices. This can then form a portfolio piece just like spec work. It’s definitely worth asking them directly - usually the "Press" contacts on a charity’s website are a good starting point. 
 
 
-## Your portfolio
+## 3. Your portfolio
 
 ### The portfolio paradox
 
@@ -153,6 +154,8 @@ Once you’ve got your first job, obviously it becomes easier to build a portfol
 ### What to include in your portfolio
 
 Include 3 or 4 pieces of work - each should demonstrate multiple aspects of your UX methodology. 
+
+For a select 1 or 2 pieces of work - expect to be able to talk in further depth about those in a "portfolio review" - which is common as an interview stage in the hiring process.
 
 For each entry, include:
 
@@ -178,7 +181,7 @@ I do occasionally see UX portfolios that [resemble a Dribbble page](https://drib
 In the day-to-day reality of a UX designer, the ability to produce a polished UI is very low down the list of requirements. Most decent organisations with a modern design function will have visual designers, user interface designers, a developed design system and front-end engineers - they don’t need UX people to build pixel-perfect front-end mockups. 
 
 
-## Getting hired 
+## 4. Getting hired 
 
 ### Move internally
 
@@ -245,7 +248,7 @@ However, if you’re just starting out, I’m afraid you’ll need to accept the
 Usually you’ll be asked to spend a few hours on these tasks, and present them back to the hiring panel. Remember what you’re trying to demonstrate: **interest**, **experience**, **methodology** and **commercial** **awareness**. Cover all these points when presenting your work back to the interviewers.
 
 
-## Conclusion
+## 5. Conclusion
 
 It’s hard, but it’s possible. You can move into UX with no experience, it takes a lot of determination and perseverance - but it can be done (I’ve seen many people do it over the years).
 
