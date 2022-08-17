@@ -3,7 +3,7 @@ layout: post
 title: "How to Get Your First Job in UX: A Guide"
 date: 2022-08-01 00:20:00 -0000
 ---
-I’ve done a lot of UX work over the past 20+ years, from freelance and contract, to startups and big enterprise companies. I’ve also seen _thousands_ of CVs (really) and hired over 100 people into design roles. I get asked (some permuation of) this question a lot, so it seems like a good idea to collect my thoughts and turn it into a guide - I aim to update this regularly as I think of new things.
+I’ve done a lot of UX work over the past 20+ years, from freelance and contract, to startups and big enterprise companies. I’ve also seen _thousands_ of CVs (really) and hired over 100 people into design roles. I get asked (some permutation of) this question a lot, so it seems like a good idea to collect my thoughts and turn it into a guide - I aim to update this regularly as I think of new things.
 
 <sup><sub>Version 1.3, Updated 16 August 2022</sub></sup>
 
