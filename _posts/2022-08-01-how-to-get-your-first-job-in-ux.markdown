@@ -5,7 +5,7 @@ date: 2022-08-01 00:20:00 -0000
 ---
 I’ve done a lot of UX work over the past 20+ years, from freelance and contract, to startups and big enterprise companies. I’ve also seen _thousands_ of CVs (really) and hired over 100 people into design roles. I get asked (some permutation of) this question a lot, so it seems like a good idea to collect my thoughts and turn it into a guide - I aim to update this regularly as I think of new things.
 
-<sup><sub>Version 1.3, Updated 16 August 2022</sub></sup>
+<sup><sub>Version 1.4, Updated 17 August 2022</sub></sup>
 
 - [1. Background](#1-background)
   * [Why work in UX?](#why-work-in-ux-)
@@ -148,6 +148,12 @@ Here are some books that I’d consider essential for any newcomer to User Exper
    <td><a href="https://abookapart.com/products/just-enough-research">Just Enough Research</a> - Erika Hall (2019)
    </td>
    <td>Compact, well-written guide to the different types of research and how you can get started with each of them.
+   </td>
+  </tr>
+  <tr>
+   <td><a href="https://amzn.to/3dCfjOJ">How to Make Sense of Any Mess</a> - Abby Covert (2014)
+   </td>
+   <td>Information architecture for everybody. 
    </td>
   </tr>
 </table>
