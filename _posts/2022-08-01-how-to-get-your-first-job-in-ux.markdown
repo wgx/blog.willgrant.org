@@ -8,7 +8,7 @@ I’ve done a lot of UX work over the past 20+ years, from freelance and contrac
 <sup><sub>Version 1.4, Updated 17 August 2022</sub></sup>
 
 - [1. Background](#1-background)
-  * [Why work in UX?](#why-work-in-ux-)
+  * [Why work in UX?](#why-work-in-ux)
   * [Impact](#impact)
   * [Human](#human)
   * [Remote-friendly](#remote-friendly)
