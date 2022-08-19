@@ -30,8 +30,8 @@ I’ve done a lot of UX work over the past 20+ years, from freelance and contrac
   * [How to get that first freelance client](#how-to-get-that-first-freelance-client)
   * [Applying for jobs](#applying-for-jobs)
   * [Resume](#resume)
-  * [The Interview (and Cover Letters)](#the-interview--and-cover-letters-)
-  * [The "take home test"](#the--take-home-test-)
+  * [The Interview (and Cover Letters)](#the-interview--and-cover-letters)
+  * [The "take home test"](#the-take-home-test)
 - [5. Conclusion](#5-conclusion)
 
 
