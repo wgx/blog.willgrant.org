@@ -53,5 +53,3 @@ Your job as a UX designer doesn’t change - you still have to understand the pr
 >“Users prefer your site to work the same way as all the other sites they already know” Jakob Nielsen
 
 Should you really be designing your user interface from scratch every time? Of course not. If the AI is already trained on a billion images of the best user interfaces out there, why waste time reinventing the wheel? 
-
-If you liked this, there’s more here: [https://blog.willgrant.org](https://blog.willgrant.org) and a book I wrote here: [101 UX Principles](https://uxbook.io/).
