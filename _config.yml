@@ -12,6 +12,9 @@ minima:
 theme: minima
 url: "https://blog.willgrant.org"
 
+paginate: 7
+paginate_path: /page:num/
+
 plugins:
  - jekyll-feed
  - jekyll-seo-tag
