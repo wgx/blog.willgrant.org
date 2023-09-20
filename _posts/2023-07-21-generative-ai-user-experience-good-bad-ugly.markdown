@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Generative AI and User Experience: The Good, The Bad, and The Ugly"
-date: 2022-07-21 00:00:00 -0000
+date: 2023-07-21 00:00:00 -0000
 ---
 ## Hype around Generative AI has exploded – but we’re only beginning to understand the implications for software products, user experiences, and the risks of excluding people. 
 
