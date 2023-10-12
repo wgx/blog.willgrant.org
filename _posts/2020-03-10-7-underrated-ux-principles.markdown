@@ -104,7 +104,7 @@ Test with real users and listen to them, and you’ll build something they love.
 ## #7 Make your product work like all the other products users know
 
 Also known as [Jakob’s Law of Internet User Experience](https://www.nngroup.com/videos/jakobs-law-internet-ux/), which states:
-> # “Users spend most of their time on other sites. This means that users prefer your site to work the same way as all the other sites they already know”.
+> ## “Users spend most of their time on other sites. This means that users prefer your site to work the same way as all the other sites they already know”.
 
 Over the years, I’ve found that part of the imagined ‘code of practice’ of designers is to not steal. As we train and learn, we’re taught to develop our own design style and not to borrow too much. Imitation is discouraged and copying the designs of others is frowned upon, dishonest even.
 
