@@ -116,6 +116,6 @@ Basics, people, *basics*. That sign in reception that says how customer-centric 
 A normal person.
 
 Ok, now look at the user interface of your product and ask yourself;
-> # Does this make any fucking sense at all?
+> ## Does this make any fucking sense at all?
 
 *Will’s book [‘101 UX Principles’](http://amzn.to/2pakk4p) is available on Amazon.*
