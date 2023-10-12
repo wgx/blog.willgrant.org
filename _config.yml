@@ -5,7 +5,6 @@ show_excerpts: true
 
 minima:
   social_links:
-    twitter: wgx
     github:  wgx
     linkedin: iamwill
 
