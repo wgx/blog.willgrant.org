@@ -1,11 +1,11 @@
 ---
 layout: post
 title: "How to Get Your First Job in UX: A Guide"
-date: 2022-08-01 00:20:00 -0000
+date: 2023-10-24 10:13:00 -0000
 ---
 I’ve done a lot of UX work over the past 20+ years, from freelance and contract, to startups and big enterprise companies. I’ve also seen _thousands_ of CVs (really) and hired over 100 people into design roles. I get asked (some permutation of) this question a lot, so it seems like a good idea to collect my thoughts and turn it into a guide - I aim to update this regularly as I think of new things.
 
-<sup><sub>Version 1.4, Updated 17 August 2022</sub></sup>
+<sup><sub>Version 1.5, Updated 24 October 2023</sub></sup>
 
 - [1. Background](#1-background)
   * [Why work in UX?](#why-work-in-ux)
@@ -44,16 +44,15 @@ If you’re reading this, you’ve probably already decided you’d like to work
 
 ### Impact
 
-If design is working well in your organisation, then designers can have a huge, direct impact on the products and services your organisation delivers. You can improve product capabilities, save people time, help them make better decisions, and generate more revenue for the company - all by employing thoughtful design at every stage of the product life cycle. It’s a rewarding feeling when you see something you’ve designed being used (happily) by 100s or even 1000s of people.
-
+If design is working well in your organisation, then designers can have a huge, direct impact on the products and services your organisation delivers. You can improve product capabilities, save people time, help them make better decisions, and generate more revenue for the company - all by employing thoughtful design at every stage of the product life cycle. It’s a rewarding feeling when you see something you’ve designed being used (happily) by thousands or even millions of people.
 
 ### Human
 
-UX is by its nature a very human-centric field. You have to think about people a lot, empathise with their needs, interview people, and liaise with lots of people across your organisation on a daily basis. You don’t _have_ to be a "people person" to be a good UX designer, but if you’re at the other end of that spectrum and _really_ don’t like social interaction - UX might not be a great fit for you.
+UX is, by its nature, a very human-centric field. You have to think about people a lot, empathise with their people's needs, interview people, and liaise with lots of people across your organisation on a daily basis. You don’t _have_ to be a "people person" to be a good UX designer, but if you’re at the other end of that spectrum and _really_ don’t like social interaction - UX might not be a great fit for you. You'll be forcing that social interaction often, and even worse: avoiding talking to users and designing poor experiences in a vacuum.
 
 ### Remote-friendly
 
-Many jobs in the tech industry are remote-friendly like software engineering and customer support. UX lends itself to this mode of working really well - thanks to collaboration tools like Miro, Figma and video conferencing. I hope you like video calls, you’re going to be doing **a lot** of them.
+Many jobs in the tech industry are remote-friendly like software engineering and customer support. UX lends itself to this mode of working really well - thanks to collaboration tools like Miro, Figma and video conferencing. I hope you like video calls, you’re going to be doing **a lot** of video calls.
 
 ### Transition paths
 
@@ -62,6 +61,7 @@ Over the past few years I’ve worked with great UX people who’ve come from th
 ### Education needed
 
 Do I need a university degree? No.
+
 Would it help me stand out amongst other applicants? Probably, for some roles.
 
 It really depends on the sector or industry you’re going into.
@@ -72,7 +72,7 @@ Conversely - if you’re applying to work in UX on deeply technical software for
 
 ### Skills needed
 
-Everything you do as a UX designer can be learned as an adult. It’s not like those kids that get taught violin at age 3 and become international superstars - you can still be great at UX if you picked it up later in your career. 
+Everything you do as a UX designer can be learned as an adult. It’s not like those kids that learn the violin at age 3 and become international superstars - you can still be great at UX if you picked it up later in your career. 
 
 **Empathy and objectivity** are the primary skills you need to succeed in UX - more so than any skills in using a particular piece of software like Figma or Miro.
 
@@ -84,7 +84,7 @@ You need empathy to understand your users’ needs, goals, and frustrations. To 
 
 You need to "read the room" and adjust your presentation style for the audience - you'll talk in very high-level terms with the CEO or other senior stakeholders, explaining why you took a certain design decision and how it relates to the wider company goals. Likewise, you'll be talking about the details of an interaction, or some UI copy with product managers or front-end engineers. 
 
-**Wireframing & Prototyping** represents a lot of the "doing" - once you’ve thought everything through, you’ll need to express how the software works visually and tools like Figma, Sketch, Miro, Axure and so on are the way to do this. They’re not difficult tools to learn (for wireframes) - and most have component libraries of UI elements you can drag and drop onto the canvas to lay out screens. 
+**Wireframing & Prototyping** represents a lot of the "doing" - once you’ve thought everything through, you’ll need to express how the software works visually and tools like Figma, Sketch, Miro, Axure and so on are the way to do this. They’re not difficult tools to learn - and most have component libraries of UI elements you can drag and drop onto the canvas to lay out screens. 
 
 
 
@@ -93,7 +93,7 @@ You need to "read the room" and adjust your presentation style for the audience 
 
 ### Courses and bootcamps
 
-A short online course in the basics of UX should be considered mandatory for anyone entering the field. In a good course you’ll learn basic HCI theory, practice the problem solving of "design thinking", come up with user personas, draw wireframe designs, and so on. There’s probably a lot of "[snake oil](https://en.wikipedia.org/wiki/Snake_oil)" out there - courses that claim to skill you up to "master" level in a few days - but stick to the well known, well-rated courses and you’ll get a lot of value. I’ve hired a few people over the years who’ve done the [Coursera courses](https://www.coursera.org/specializations/interaction-design) and the work they’ve demonstrated as part of their coursework has been excellent.
+A short online course in the basics of UX should be considered mandatory for anyone entering the field. In a good course you’ll learn basic HCI theory, practice the problem solving of "design thinking", come up with user personas, draw wireframe designs, and so on. There’s probably a lot of "[snake oil](https://en.wikipedia.org/wiki/Snake_oil)" out there - courses that claim to skill you up to "master" level in a few days - clearly impossible. But, stick to the well known, well-rated courses and you’ll get a lot of value. I’ve hired a few people over the years who’ve done the [Coursera courses](https://www.coursera.org/specializations/interaction-design) and the work they’ve demonstrated as part of their coursework has been excellent.
 
 
 ### Books
@@ -129,7 +129,7 @@ Here are some books that I’d consider essential for any newcomer to User Exper
   <tr>
    <td><a href="https://amzn.to/3vwiGgr">101 UX Principles</a> - Will Grant (2022)
    </td>
-   <td>Disclaimer: I wrote this one. Obviously, I think it’s good for newcomers to the field.
+   <td>Disclaimer: I wrote this one. Obviously, I think it’s good for newcomers to the field - and as a reference for more experienced UX designers.
    </td>
   </tr>
   <tr>
@@ -150,26 +150,24 @@ Here are some books that I’d consider essential for any newcomer to User Exper
    <td>Compact, well-written guide to the different types of research and how you can get started with each of them.
    </td>
   </tr>
-  <tr>
-   <td><a href="https://amzn.to/3dCfjOJ">How to Make Sense of Any Mess</a> - Abby Covert (2014)
-   </td>
-   <td>Information architecture for everybody. 
-   </td>
-  </tr>
 </table>
 
 
 ### Speculative projects
 
-Speculative projects (often called "spec work" or similar) is where you _pretend_ to be working for a real paying client: but do all the work yourself for a portfolio piece. They’re great for a few reasons; first, they’re great practice. Setting yourself a challenge like "let’s redesign Instagram for the macOS desktop" or "Could I design an Uber for dog sitting" is a doorway to a whole heap of new ideas and exploration. You’ll flex those UX muscles and finish the process with a bit more practice under your belt.
+Speculative projects (often called "spec work" or similar) is where you _pretend_ to be working for a real paying client: but do all the work yourself for a portfolio piece.
+
+They’re great for a few reasons; first, they’re great practice. Setting yourself a challenge like "let’s redesign Instagram for the macOS desktop" or "Could I design an Uber-for-dog-sitting" is a doorway to a whole heap of new ideas and exploration. You’ll flex those UX muscles and finish the process with a bit more practice under your belt.
 
 Second: they can help bulk out a beginner’s portfolio - obviously the hiring manager will know you didn’t actually work for Instagram, but you can demonstrate your process anyway.
 
-Finally: they look great to recruiters and hiring managers. A spec project shows your work and shows your interest in the field. Being curious and interested in product design is very attractive to hiring managers.
+Finally: they look great to recruiters and hiring managers. A spec project shows your work and shows your interest in the field. Being curious and interested in design is very attractive to hiring managers.
 
 ### Volunteer projects
 
-One step up from spec work is actually working on a real product as a volunteer. Many small charities have little to no design resource internally - but they all have websites (and apps) in need of major UX improvements. I have first hand experience of this as I volunteered for a small health charity in my country: their site had never had the slightest bit of "UX love" and I was able to do a lot of work for them to improve their donations conversion and generally apply some UX best practices. This can then form a portfolio piece just like spec work. It’s definitely worth asking them directly - usually the "Press" contacts on a charity’s website are a good starting point. 
+One step up from spec work is actually working on a real product as a volunteer. Many small charities have little to no design resource internally - but they all have websites (and apps) in need of major UX improvements. I have first hand experience of this as I volunteered for a small health charity in my country: their site had never had the slightest bit of "UX love" and I was able to do a lot of work for them to improve their donations conversion and generally apply some UX best practices. This can then form a portfolio piece just like spec work.
+
+It’s definitely worth asking them directly - usually the "Press" contacts on a charity’s website are a good starting point. 
 
 
 ## 3. Your portfolio
@@ -212,7 +210,7 @@ Finally, results are nice - but not essential. It’s not always possible to qua
 
 I do occasionally see UX portfolios that [resemble a Dribbble page](https://dribbble.com/shots/recent). High-fidelity user interfaces, sleek isometric devices, animated micro-interactions, and 3D graphics from a stock site. It’s lovely and very pretty but it tells me nothing about your UX process.
 
-In the day-to-day reality of a UX designer, the ability to produce a polished UI is very low down the list of requirements. Most decent organisations with a modern design function will have visual designers, user interface designers, a developed design system and front-end engineers - they don’t need UX people to build pixel-perfect front-end mockups. 
+In the day-to-day reality of a UX designer, the ability to produce a polished production-ready UI is very low down the list of requirements. Most decent organisations with a modern design function will have visual designers, user interface designers, a developed design system and front-end engineers - they don’t need UX people to build pixel-perfect front-end mockups. They need UX people to understand users and design experiences to meet their needs.
 
 
 ## 4. Getting hired 
@@ -256,7 +254,7 @@ This _really_ is a "numbers game" - you have to apply to a lot of jobs, to get a
 
 Don’t get fixated on one job, or one employer - it’ll be too disappointing if you don’t get _that one dream job_. There are plenty more jobs out there to apply for, you need to have thick skin, patience and determination.
 
-### Resume
+### Resume or CV
 
 There are a million pages on the web about resume (CV) writing tips, so I won’t go into that in detail. Keep it short, readable, tastefully designed, focus on experience, skills, education.
 
@@ -286,6 +284,6 @@ Usually you’ll be asked to spend a few hours on these tasks, and present them 
 
 It’s hard, but it’s possible. You can move into UX with no experience, it takes a lot of determination and perseverance - but it can be done (I’ve seen many people do it over the years).
 
-Finally, if there’s anything you strongly disagree with in this post [I’d love to hear about it](https://twitter.com/wgx). I’ll be revising this post as I think of new things or change my views over time.
+Finally, if there’s anything you strongly disagree with in this post I’d love to hear about it. I’ll be revising this post as I think of new things or change my views over time.
 
 Good luck!
