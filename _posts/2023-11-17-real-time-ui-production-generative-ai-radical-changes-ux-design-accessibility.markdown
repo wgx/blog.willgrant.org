@@ -37,7 +37,7 @@ As imagined, this kind of approach has the potential to massively improve user e
 
 Discoverability, usability and accessibility can all be enhanced by showing the user the right views, controls and flows at the right time - customized to their context. 
 
-There are challenges too: how does help and support work if every experience is different? How do we ensure that design ethics are followed and the AI doesn’t employ deceptive patterns to manipulate users?
+There are challenges too: how does help and support work if every experience is different? How do we ensure that design ethics are followed and the AI doesn’t employ [deceptive patterns](https://en.wikipedia.org/wiki/Dark_pattern) to manipulate users?
 
 ## How does this change design?
 
@@ -61,7 +61,7 @@ Does generative AI produce accessible front-end experiences? It’s too soon to 
 
 Possibly. If design ethics and accessibility are ignored, the web would become a more manipulative place which excludes more people. 
 
-On the other hand, it has the potential to revolutionize access to systems - reducing learning curves, increasing efficiency and allowing access for all. 
+On the other hand, it has the potential to revolutionize access to systems - reduce learning curves, increase efficiency and truly allow access for all. 
 
 ## How likely is this to happen?
 
