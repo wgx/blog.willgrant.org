@@ -3,7 +3,7 @@ layout: post
 title: "Real time user interface production with generative AI hints at radical changes to UX design and accessibility"
 date: 2023-11-17 00:10:13 -0000
 ---
-## This post contains a lot of questions and very few answers, I hope you enjoy it regardless and it triggers some thoughts. 
+**This post contains a lot of questions and very few answers, I hope you enjoy it regardless and it triggers some thoughts.**
 
 Back in March, OpenAI demonstrated their newest model “GPT-4V” (the V is for Vision) on a dev stream: 
 
@@ -13,7 +13,7 @@ In this [YouTube video at 16:19](https://www.youtube.com/live/outcGtbnMuQ?t=979)
 
 In this example GPT-4V not only interpreted the image, but went on to write the HTML, CSS, and JavaScript for interactivity. It also wrote the jokes and punchlines (although the jokes aren’t great)! GPT-4V used a heading, as well as body copy, and styled the buttons to appear as clickable elements. 
 
-> **Is it a huge leap to imagine a model in years (or more likely, months) from now that can generate User Interface, on the fly, in real-time?**
+**Is it a huge leap to imagine a model in years (or more likely, months) from now that can generate User Interface, on the fly, in real-time?**
 
 Imagine: an advanced digital experience layer understands the visitor and prompts a generative AI model with all the interface requirements, their methods, and something like:
 
