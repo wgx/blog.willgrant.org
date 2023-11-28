@@ -22,4 +22,4 @@ So, with that in mind here are a few strategies that should help ease the pain f
 
 **Gather and Act on Feedback**: Make it easy for users to provide feedback on the new interface. Ensure this feedback is acted upon and incorporated into future iterations.
 
-Remember the principles of Agile development - iterate, learn, and adjust based on feedback and data. Keep your users in the loop and *be prepared to make changes* based on their feedback and needs.
+Remember the principles of [Agile development](https://agilemanifesto.org/) - iterate, learn, and adjust based on feedback and data. Keep your users in the loop and *be prepared to make changes* based on their feedback and needs.
