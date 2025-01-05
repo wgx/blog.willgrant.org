@@ -3,7 +3,7 @@ layout: post
 title: "This is a complete #humblebrag but I’m ok with that"
 date: 2025-01-02 00:00:00 -0000
 ---
-This is a complete #humblebrag but I’m ok with that (this is LinkedIn after all). 
+This is a complete #humblebrag but I’m ok with that.
 
 My first book (from back in 2018) has been cited in over 50 academic papers. I just love the diversity of these titles:
 
