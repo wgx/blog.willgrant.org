@@ -5,7 +5,7 @@ date: 2025-01-05 00:00:00 -0000
 ---
 My relationship with Spotify has changed over the years. I’ve had my account for 11 years and I’ve listened to over a million minutes of music. I’ve made playlists for 1,000s of people, discovered artists and whole genres and generally loved Spotify - and been an evangelist for it. 
 
-Sadly, Spotify has completed its cycle of enshitttificatipn and I’m going to leave. First it was the [terrible amounts they pay artists](https://www.un-wrapped.online/#start) and most recently it’s [the “ghost artists” controversy](https://harpers.org/archive/2025/01/the-ghosts-in-the-machine-liz-pelly-spotify-musicians/). I’ve been directly exposed to this second one personally. 
+Sadly, Spotify has completed its cycle of [enshitttification](https://en.m.wikipedia.org/wiki/Enshittification) and I’m going to leave. First it was the [terrible amounts they pay artists](https://www.un-wrapped.online/#start) and most recently it’s [the “ghost artists” controversy](https://harpers.org/archive/2025/01/the-ghosts-in-the-machine-liz-pelly-spotify-musicians/). I’ve been directly exposed to this second one personally. 
 
 In 2019 I made a playlist called “Songs for Dogs to Sleep To” - for my dog Alfie. It got a few hundred followers, then a few thousand and it peaked at 9,000 followers. 9,000 dogs would be treated, daily, to soothing music I selected. 
 
