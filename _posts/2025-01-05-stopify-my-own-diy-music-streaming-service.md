@@ -19,7 +19,7 @@ I have a lot of vinyl, but that’s harder to digitise. In the attic there’s m
 
 (ADD:img boxes of CDs)
 
-I have a few computers but my more recent ones don’t have an optical drive. Enter the HP Elitedesk! This bad boy has a DVD-RAM which can read CDs at 8x normal speed if needed. I installed EAC for Windows[link], and tweaked some settings: 1) auto-lookup the track info from a DB, 2) name the tracks %artist% %tracknum% %tracktitle% (in case I want to manipulate them later, and 3) eject when done with a beep. 
+I have a few computers but my more recent ones don’t have an optical drive. Enter the HP Elitedesk! This bad boy has a DVD-RAM which can read CDs at 8x normal speed if needed. I installed [EAC for Windows](https://www.exactaudiocopy.de/), and tweaked some settings: 1) auto-lookup the track info from a DB, 2) name the tracks %artist% %tracknum% %tracktitle% (in case I want to manipulate them later, and 3) eject when done with a beep. 
 
 You would think that feeding hundreds and hundreds of CDs into a computer was a huge chore, but it really wasn’t that bad. If I was working in the office and the machine finished, I would swap CD and if I happen to be walking past the office, I could pop in and swap a CD. CD swapping has been the theme of Christmas 2024. 
 
