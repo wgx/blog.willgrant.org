@@ -37,8 +37,11 @@ Storage is cheap. It used to be expensive to store data - but nowadays - storing
 There’s a [backup strategy](https://en.wikipedia.org/wiki/Backup) called 3,2,1: Three copies of the data are made, the copies are stored on two different types of storage media and one copy of the data is sent offsite.
 
 Three: SSD, HD and Cloud
+
 Two: HD and Cloud
+
 One: Cloud
+
 
 So, I need to store the files on my SSD and also back them up to HD. Easy. And somehow copy them reliably to a cloud hosting service. Dropbox? I have an Amazon web services account, maybe S3?
 
