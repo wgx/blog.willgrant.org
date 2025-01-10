@@ -45,6 +45,6 @@ One: Cloud
 
 So, I need to store the files on my SSD and also back them up to HD. Easy. And somehow copy them reliably to a cloud hosting service. Dropbox? I have an Amazon web services account, maybe S3?
 
-Up next time: Adventures in the cloud. 
+I tried a few things: [rsync](https://linux.die.net/man/1/rsync), [rclone](https://rclone.org/), [Dropbox CLI](https://github.com/dropbox/dbxcli), which were all tricky to get working in the exact way I wanted. Amazon S3's permissions structure is really cumbersome to set up. I ended up with a much-less advanced solution: drag the WAV folder to Dropbox in the browser, wait 8 hours, and it was done.
 
 To be continued… 
