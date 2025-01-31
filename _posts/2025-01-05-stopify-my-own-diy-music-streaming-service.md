@@ -17,7 +17,7 @@ For new music discovery Spotify is still great - but I can do that with [Soundcl
 
 I have a lot of vinyl, but that’s harder to digitise. In the attic there’s maybe 500 to 700 CD albums, so - while returning the Christmas tree to its resting place for the next 11 months - I retrieved many boxes and flight cases of CDs. 
 
-![flight cae of CDs](/images/cds.jpg)
+![flight case of CDs](/images/cds.jpg)
 
 I have a few computers but my more recent ones don’t have an optical drive. Enter the HP Elitedesk! This bad boy has a DVD-RAM which can read CDs at 8x normal speed if needed. I installed [EAC for Windows](https://www.exactaudiocopy.de/), and tweaked some settings: 1) auto-lookup the track info from a DB, 2) name the tracks %artist% %tracknum% %tracktitle% (in case I want to manipulate them later, and 3) eject when done with a beep. 
 
