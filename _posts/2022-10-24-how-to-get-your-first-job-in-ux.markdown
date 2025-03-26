@@ -1,11 +1,31 @@
 ---
 layout: post
 title: "How to Get Your First Job in UX: A Guide"
-date: 2023-10-24 10:13:00 -0000
+date: 2025-03-26 09:13:00 -0000
 ---
+
+## The UX winter of 2023-2025
+
+It's time for the 2025 update of this guide, and we're in a dark time in user experience. [Job listings for "UX" plunged in 2023](https://indeed.design/article/ux-job-listings-plunged-in-2023/) and haven't recovered. Entry level jobs seem to be particularly hard to find - one theory is that AI is automating some tasks and organizations want to hire more senior, director-level UX professionals to "supervise the robots". 
+
+Ten years ago, the cry from user experience professionals was "we want a seat at the table!" - we've had that seat at the table for the past decade, and many of us have become disillusioned with our ability to affect change in products and services. But, sure enough the pendulum will swing back the other way, and design-led culture will be back in vogue, eventually. 
+
+But software still needs to be made. User experiences still need to be thought through, user problems need to be solved with design. Countless user experience professionals are still out there working, moving jobs and organizations, and some are retiring. There are roles out there to be found, but the competition is more intense than ever. 
+
+To quote [Erika Hall](https://www.linkedin.com/posts/erikahall_dont-lose-hope-just-because-caring-about-activity-7274463036067794944-bhuW/):
+
+> Don't lose hope. Just because caring about the people you're creating
+> products and services with and for is no longer the flavor of the
+> month, and critical thinking seems to be in short supply, doesn't mean
+> that the right way to do business isn't the right way to do business.
+
+I've made some revisions to the guide below, if you're trying to get into UX... enjoy:
+
+## Introduction
+
 I’ve done a lot of UX work over the past 20+ years, from freelance and contract, to startups and big enterprise companies. I’ve also seen _thousands_ of CVs (really) and hired over 100 people into design roles. I get asked (some permutation of) this question a lot, so it seems like a good idea to collect my thoughts and turn it into a guide - I aim to update this regularly as I think of new things.
 
-<sup><sub>Version 1.5, Updated 24 October 2023</sub></sup>
+<sup><sub>Version 1.6, Updated 26 March 2025</sub></sup>
 
 - [1. Background](#1-background)
   * [Why work in UX?](#why-work-in-ux)
@@ -44,15 +64,17 @@ If you’re reading this, you’ve probably already decided you’d like to work
 
 ### Impact
 
-If design is working well in your organisation, then designers can have a huge, direct impact on the products and services your organisation delivers. You can improve product capabilities, save people time, help them make better decisions, and generate more revenue for the company - all by employing thoughtful design at every stage of the product life cycle. It’s a rewarding feeling when you see something you’ve designed being used (happily) by thousands or even millions of people.
+If design is working well in your organization, then designers can have a huge, direct impact on the products and services your organization delivers. You can improve product capabilities, save people time, help them make better decisions, and generate more revenue for the company - all by employing thoughtful design at every stage of the product life cycle. It’s a rewarding feeling when you see something you’ve designed being used (happily) by thousands or even millions of people.
+
+I started with "if design is working well" because that isn't always the case. In organizations where design is simply seen as aesthetics, as a layer of veneer over an already-finished product, then it can much harder to have an impact and the work can be very frustrating.
 
 ### Human
 
-UX is, by its nature, a very human-centric field. You have to think about people a lot, empathise with their people's needs, interview people, and liaise with lots of people across your organisation on a daily basis. You don’t _have_ to be a "people person" to be a good UX designer, but if you’re at the other end of that spectrum and _really_ don’t like social interaction - UX might not be a great fit for you. You'll be forcing that social interaction often, and even worse: avoiding talking to users and designing poor experiences in a vacuum.
+UX is, by its nature, a very human-centric field. You have to think about people a lot, empathize with their people's needs, interview people, and liaise with lots of people across your organization on a daily basis. You don’t _have_ to be a "people person" to be a good UX designer, but if you’re at the other end of that spectrum and _really_ don’t like social interaction - UX might not be a great fit for you. You'll be forcing that social interaction often, and even worse: *avoiding* talking to users and designing poor experiences in a vacuum.
 
 ### Remote-friendly
 
-Many jobs in the tech industry are remote-friendly like software engineering and customer support. UX lends itself to this mode of working really well - thanks to collaboration tools like Miro, Figma and video conferencing. I hope you like video calls, you’re going to be doing **a lot** of video calls.
+Many jobs in the tech industry are remote-friendly (eg: software engineering, customer support) and UX lends itself to this mode of working really well - thanks to collaboration tools like Miro, Figma and video conferencing. I hope you like video calls, you’re going to be doing **a lot** of video calls. As more applications get "multiplayer" support, it becomes even easier to collaborate remotely on the work of design.
 
 ### Transition paths
 
@@ -68,7 +90,7 @@ It really depends on the sector or industry you’re going into.
 
 For example: if you work in marketing for a fashion company, moving into UX on an online fashion store would be a great transition - and it’s unlikely a degree or masters’ in UX or [HCI](https://en.wikipedia.org/wiki/Human%E2%80%93computer_interaction) would add much to your chances of getting hired.
 
-Conversely - if you’re applying to work in UX on deeply technical software for database engineering, a Computer Science degree would make you a more desirable candidate to a recruiter.
+Conversely - if you’re applying to work in UX on deeply technical software for database engineering (for example), a Computer Science degree would probably make you a more desirable candidate.
 
 ### Skills needed
 
@@ -98,7 +120,7 @@ A short online course in the basics of UX should be considered mandatory for any
 
 ### Books
 
-Here are some books that I’d consider essential for any newcomer to User Experience (note these are Amazon Affiliate links).
+Here are some books that I’d consider essential for any newcomer to User Experience (Amazon Affiliate links).
 
 
 <table>
@@ -157,11 +179,12 @@ Here are some books that I’d consider essential for any newcomer to User Exper
 
 Speculative projects (often called "spec work" or similar) is where you _pretend_ to be working for a real paying client: but do all the work yourself for a portfolio piece.
 
-They’re great for a few reasons; first, they’re great practice. Setting yourself a challenge like "let’s redesign Instagram for the macOS desktop" or "Could I design an Uber-for-dog-sitting" is a doorway to a whole heap of new ideas and exploration. You’ll flex those UX muscles and finish the process with a bit more practice under your belt.
+They’re great for a few reasons; first, they’re great practice. Setting yourself a challenge like "let’s redesign Bluesky for CarPlay" or "Could I design an Uber-for-dog-sitting" is a doorway to new ideas and exploration. You’ll flex those UX muscles and finish the process with a bit more practice under your belt.
 
-Second: they can help bulk out a beginner’s portfolio - obviously the hiring manager will know you didn’t actually work for Instagram, but you can demonstrate your process anyway.
+Second: they can help bulk out a beginner’s portfolio - obviously the hiring manager will know you didn’t *actually* work for Instagram, but you can demonstrate your process anyway.
 
 Finally: they look great to recruiters and hiring managers. A spec project shows your work and shows your interest in the field. Being curious and interested in design is very attractive to hiring managers.
+
 
 ### Volunteer projects
 
@@ -198,7 +221,7 @@ For each entry, include:
 * The solution you arrived at
 * The results the solution delivered
 
-It sounds like a lot, but you can really condense it and be succinct - include bullet points and [pull quotes](https://en.wikipedia.org/wiki/Pull_quote) to emphasise the important things you don’t want readers to miss. 
+It sounds like a lot, but you can really condense it and be succinct - include bullet points and [pull quotes](https://en.wikipedia.org/wiki/Pull_quote) to emphasize the important things you don’t want readers to miss. 
 
 For each step, include **evidence** of your process; personas, notes from interviews, empathy maps, flow diagrams, wireframes and sketches. 
 
@@ -208,16 +231,16 @@ Finally, results are nice - but not essential. It’s not always possible to qua
 
 ### What not to include in your portfolio
 
-I do occasionally see UX portfolios that [resemble a Dribbble page](https://dribbble.com/shots/recent). High-fidelity user interfaces, sleek isometric devices, animated micro-interactions, and 3D graphics from a stock site. It’s lovely and very pretty but it tells me nothing about your UX process.
+I do occasionally see UX portfolios that [resemble a Dribbble page](https://dribbble.com/shots/recent). High-fidelity user interfaces, sleek isometric devices, animated micro-interactions, and 3D graphics from a stock site. It’s lovely and very pretty but it tells a hiring manager nothing about your UX process.
 
-In the day-to-day reality of a UX designer, the ability to produce a polished production-ready UI is very low down the list of requirements. Most decent organisations with a modern design function will have visual designers, user interface designers, a developed design system and front-end engineers - they don’t need UX people to build pixel-perfect front-end mockups. They need UX people to understand users and design experiences to meet their needs.
+In the day-to-day work of a UX designer, the ability to produce a polished production-ready UI is very low down the list of requirements. Most decent organizations with a modern design function will have visual designers, user interface designers, a developed design system and front-end engineers - they don’t need UX people to build pixel-perfect front-end mockups. They need UX people to understand users and design experiences to meet their needs.
 
 
 ## 4. Getting hired 
 
 ### Move internally
 
-If you’re in a big enough organisation, it might be possible to move internally across teams or departments and take on UX work. If a full move isn’t possible, maybe you can "act up" and perform some duties of a UX professional. All this work can be added to your portfolio and resume for a future external role.
+If you’re in a big enough organization, it might be possible to move internally across teams or departments and take on UX work. If a full move isn’t possible, maybe you can "act up" and perform some duties of a UX professional. All this work can be added to your portfolio and resume for a future external role.
 
 ### Freelance work
 
@@ -235,7 +258,7 @@ Look for customers _like_ your existing/past customers - reach out to them: "Hey
 
 Network - look at your network and approach them "I really like [your thing] - I’d love to help out with any UX design requirements you might have".
 
-Then finally, you can try [Fiverr](https://www.fiverr.com/), [Upwork](https://www.upwork.com/), you could even try the gruelling [Toptal](https://www.toptal.com/) signup & interview process.
+Then finally, you can try [Fiverr](https://www.fiverr.com/), [Upwork](https://www.upwork.com/), you could even try the grueling [Toptal](https://www.toptal.com/) signup & interview process.
 
 It’s a "numbers game", send a lot of messages, hope that some stick. Remember: it’s 100x easier to get work from a past client than to find a new one.
 
@@ -250,7 +273,7 @@ So you’ve ticked all the boxes so far:
 
 ...and it’s time to start applying for jobs.
 
-This _really_ is a "numbers game" - you have to apply to a lot of jobs, to get a few interviews, to get the one offer you want. Think of it like a [sales funnel](https://en.wikipedia.org/wiki/Purchase_funnel).
+This _really_ is a "numbers game" - you have to apply to a lot of jobs, to get a few interviews, to get the one offer you want. Think of it like a [sales funnel](https://en.wikipedia.org/wiki/Purchase_funnel), and make a spreadsheet to keep track of all your applications. 
 
 Don’t get fixated on one job, or one employer - it’ll be too disappointing if you don’t get _that one dream job_. There are plenty more jobs out there to apply for, you need to have thick skin, patience and determination.
 
@@ -275,15 +298,15 @@ The people interviewing you are asking themselves "is this person nice, decent, 
 
 I often advise more senior designers to avoid these tests and decline when asked to do them. They’re unnecessary - a hiring manager should be able to look at a seasoned designer’s portfolio of work, and with a couple of interviews, establish if they are a good fit or not. The time spent doing these tests could be better used applying to more jobs with companies that _don’t_ ask for a take home test.
 
-However, if you’re just starting out, I’m afraid you’ll need to accept these "take home" tests. I’d advise not spending too much time on polishing them - when interviewing I care more about the **thought process** the designer went through rather than seeing a shiny finished product. It’s not a dribbble piece, it’s a story of how your design process works.
+However, if you’re just starting out, I’m afraid you may decide you need to accept these "take home" tests. I’d advise not spending too much time on polishing them - when interviewing I care more about the **thought process** the designer went through rather than seeing a shiny finished product. It’s not a dribbble piece, it’s a story of how your design process works.
 
 Usually you’ll be asked to spend a few hours on these tasks, and present them back to the hiring panel. Remember what you’re trying to demonstrate: **interest**, **experience**, **methodology** and **commercial** **awareness**. Cover all these points when presenting your work back to the interviewers.
 
 
 ## 5. Conclusion
 
-It’s hard, but it’s possible. You can move into UX with no experience, it takes a lot of determination and perseverance - but it can be done (I’ve seen many people do it over the years).
+It’s hard, but it’s possible. You can move into UX, although it takes a lot of determination and perseverance - it can be done (I’ve seen many people do it over the years).
 
 Finally, if there’s anything you strongly disagree with in this post I’d love to hear about it. I’ll be revising this post as I think of new things or change my views over time.
 
-Good luck!
+Good luck! 
