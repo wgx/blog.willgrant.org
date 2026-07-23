@@ -53,7 +53,7 @@ I loaded the RAW files into [Affinity](https://www.affinity.studio/) and eyeball
 
 ## Step 4: Crop frames
 
-The alignment of each 4 frames within the 35mm frame is not exact (this is a plastic camera from the 1990s after all). In fact frames 1 and 2 are a different width to frames 3 and 4, so I’ll need to crop each frame, then align them as layers manually in Affinity. Making the frames 50% transparency helps as a rudimentary form on [onion skinning](https://en.wikipedia.org/wiki/Onion_skinning). 
+The alignment of each 4 frames within the 35mm frame is not exact (this is a plastic camera from the 1990s after all). In fact frames 1 and 2 are a different width to frames 3 and 4, so I’ll need to crop each frame, then align them as layers manually in Affinity. Making the frames 50% transparency helps as a rudimentary form of [onion skinning](https://en.wikipedia.org/wiki/Onion_skinning). 
 
 <video controls width="640" height="360">
     <source src="/images/hgif-affinity.mp4" type="video/mp4">
