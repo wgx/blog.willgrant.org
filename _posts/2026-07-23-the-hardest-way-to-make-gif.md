@@ -98,6 +98,8 @@ Here are some of my favourites:
 
 ![35mm GIF Animation of a some plants](/images/hgif-plants.gif)
 
+![35mm GIF Animation of a mini train](/images/hgif-train.gif)
+
 ![35mm GIF Animation of a ShopMobility Scooter](/images/hgif-shopmo.gif)
 
 ![35mm GIF Animation of people walking](/images/hgif-walk.gif)
