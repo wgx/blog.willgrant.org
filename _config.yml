@@ -5,7 +5,8 @@ show_excerpts: true
 
 minima:
   social_links:
-    github:  wgx
+    github: wgx
+    linkedin: wgx
 
 theme: minima
 url: "https://blog.willgrant.org"
