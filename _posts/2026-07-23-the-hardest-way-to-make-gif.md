@@ -103,3 +103,7 @@ Here are some of my favourites:
 ![35mm GIF Animation of a ShopMobility Scooter](/images/hgif-shopmo.gif)
 
 ![35mm GIF Animation of people walking](/images/hgif-walk.gif)
+
+<div style="background-color: #f4f4f4; padding: 20px; text-align: center; margin-top: 40px; border-radius: 5px;">
+  🤓 Hire me: <a style="text-decoration:underline" href="https://www.linkedin.com/in/wgx">I'm available for work</a>. Design Leadership, not making GIFs. Although... 🤔
+</div>
