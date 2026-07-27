@@ -23,6 +23,7 @@ The camera uses a unique clockwork spring-powered mechanism to rotate a circular
 
 Because you never really know how the photos will turn out, I’ll shoot a 36 exposure roll of Lucky SHD 400 film, and we’ll see what we get. Now that our photos are captured on China’s ~~finest~~ cheapest black and white film, we need to make them visible. 
 
+![Lomo ActionSampler shutter mechanism in slow motion](/images/hgif-actionsampler-lens-slowmotion.gif)
 
 ## Step 2: Develop film
 
