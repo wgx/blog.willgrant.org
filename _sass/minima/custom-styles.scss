@@ -7,3 +7,119 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: 600;
   letter-spacing: -0.5px;
 }
+
+:root {
+  color-scheme: light;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    color-scheme: dark;
+  }
+
+  body {
+    color: #839496;
+    background-color: #002b36;
+  }
+
+  a {
+    color: #268bd2;
+
+    &:visited {
+      color: #5c8da6;
+    }
+
+    &:hover {
+      color: #93a1a1;
+    }
+  }
+
+  blockquote {
+    color: #586e75;
+    border-left-color: #586e75;
+  }
+
+  pre,
+  code,
+  .highlight,
+  .highlighter-rouge .highlight {
+    background-color: #073642;
+    border-color: #586e75;
+  }
+
+  .site-header {
+    border-bottom-color: #586e75;
+  }
+
+  .site-title,
+  .site-title:visited {
+    color: #839496;
+  }
+
+  .site-nav {
+    background-color: #002b36;
+    border-color: #586e75;
+
+    .menu-icon > svg path {
+      fill: #839496;
+    }
+
+    .page-link {
+      color: #839496;
+    }
+  }
+
+  .site-footer {
+    border-top-color: #586e75;
+  }
+
+  .post-meta,
+  .footer-col-wrapper,
+  .social-links {
+    color: #586e75;
+  }
+
+  .social-media-list li a {
+    border-color: #586e75;
+
+    &:hover {
+      border-color: #93a1a1;
+    }
+  }
+
+  .pagination li div.pager-edge {
+    color: #586e75;
+  }
+
+  table {
+    color: #839496;
+    border-color: #586e75;
+
+    tr:nth-child(even) {
+      background-color: #073642;
+    }
+
+    th {
+      background-color: #073642;
+      border-color: #586e75;
+    }
+
+    td {
+      border-color: #586e75;
+    }
+  }
+
+  .highlight {
+    .c, .cm, .cp, .c1, .cs, .gh, .gu, .w {
+      color: #586e75;
+    }
+
+    .k, .o, .gs, .kc, .kd, .kp, .kr, .ow {
+      color: #93a1a1;
+    }
+
+    .ge, .go, .gp, .nn {
+      color: #839496;
+    }
+  }
+}
