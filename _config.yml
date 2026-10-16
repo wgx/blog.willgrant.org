@@ -1,12 +1,27 @@
 title: Blog posts by Will Grant
 description: >
-  UK-based UX expert with 20+ years experience in global web and mobile product design, accessibility, and usability.
+  Will Grant is a User Experience (UX) professional based in the United Kingdom with over 20 years of experience, including as a practitioner and strategic director. Will has an extensive background in overseeing the design, accessibility, and usability of web and mobile products that have reached a global audience of over a billion users.
+timezone: Europe/London
 show_excerpts: true
+author:
+  name: Will Grant
+
+exclude:
+  - .vscode/
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - README.md
+  - node_modules/
+  - package.json
+  - package-lock.json
+  - vendor/
 
 minima:
   social_links:
     github: wgx
     linkedin: wgx
+    bluesky: wllgrnt.bsky.social
 
 theme: minima
 url: "https://blog.willgrant.org"
@@ -15,7 +30,15 @@ paginate: 7
 paginate_path: /page:num/
 
 plugins:
- - jekyll-feed
- - jekyll-seo-tag
- - jekyll-sitemap
- - jekyll-paginate
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-paginate
+
+sass:
+  style: compressed
+  quiet_deps: true
+  silence_deprecations:
+    - import
+    - slash-div
+    - global-builtin
